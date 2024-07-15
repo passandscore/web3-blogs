@@ -6,7 +6,5 @@ https://book.getfoundry.sh/
 ## Usage
 
 ```shell
-forge install
-forge build
-forge test
+make
 ```

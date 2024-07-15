@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.25;
 
-import "forge-std/Test.sol";
+import "@forge-std-1.8.2/src/Test.sol";
 import {VulnerableContract, Attack} from "../src/StrictEquality.sol";
 
 contract VulnerableContractTest is Test {

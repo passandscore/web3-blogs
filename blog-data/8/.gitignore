@@ -14,4 +14,4 @@ docs/
 .env
 
 # Lib
-lib/
+/dependencies
